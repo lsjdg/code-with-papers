@@ -8,6 +8,5 @@ pip install -r requirements.txt
 ```
 # Implemented Papers
 ## Industrial Anomaly Detection
-* Towards Total Recall in Industrial Anomaly Detection
-    - <a href="https://arxiv.org/abs/2106.08265">arXiv link</a>
+* <a href="https://arxiv.org/abs/2106.08265">Towards Total Recall in Industrial Anomaly Detection</a>
     - accepted to CVPR 2022
