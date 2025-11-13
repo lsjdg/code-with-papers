@@ -2,7 +2,6 @@
 
 import torch
 from torch.utils.data import Dataset  # Saves samples with labels
-from torch.utils.data import DataLoader  # Provides iterables that contain data
 from PIL import Image
 import os
 from torchvision import transforms as T
